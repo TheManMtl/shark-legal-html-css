@@ -1,0 +1,31 @@
+#content iframe{
+    border: 0px;
+    width:300px;
+    height:250px;
+}
+
+#title{
+    background-color: #434D5A;
+    color: #886B00;
+}
+
+#content ul li{
+    margin-bottom: 1.5rem;
+}
+#content{
+    background-color: #434D5A;
+    color:#FFFFFF
+}
+#content .row{
+    width: 100%;
+}
+h5{
+ color: #886B00;
+}
+
+#partners{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#partners i{
+    color: #021E42;   
+}
